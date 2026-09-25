@@ -58,6 +58,18 @@ Author: stevesensei
 
 :::
 
+::: details .Net 开发 SDK：[OneBot.Net.Sdk]()
+
+Author: WorldmeQC
+
+基于 .NET 8 的 OneBot 11 协议 SDK，用于快速开发 QQ 机器人（兼容 NapCatQQ 等实现）。
+
+目前支持Websock正向连接，完全兼容 NapCat/OneBot 11 协议标准。
+
+- [仓库地址](https://github.com/WorldmeQC/OneBot.Net.Sdk)
+
+:::
+
 ::: details Python 开发 SDK：NapCat-SDK
 Author: faithleysath
 
